@@ -14,7 +14,7 @@
 
 #### 1.1.1. [Compiler](https://en.wikipedia.org/wiki/Compiler)
 
-- Must support C++11.
+- Must support [C++11](https://en.wikipedia.org/wiki/C%2B%2B11) standard.
 
 ###### [Table of contents](#table-of-contents)
 
